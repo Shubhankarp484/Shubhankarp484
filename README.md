@@ -34,9 +34,14 @@
 <!-- Tech Stack -->
 <h3>🧰 Tech Stack</h3>
 
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,kotlin&theme=dark" />
+</p>
+
 **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,kotlin&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi&theme=dark" />
 </p>
 
 **Frontend**
